@@ -3,7 +3,7 @@ export SECRET_KEY=adzumi
 
 
 export MAIL_USERNAME=oscarcheruiyot3@gmail.com
-export MAIL_PASSWORD=@SpencerDeon1995
+export MAIL_PASSWORD=
 
 python3.6 manage.py server
 
